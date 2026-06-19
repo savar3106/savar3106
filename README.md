@@ -1,4 +1,4 @@
-👋 Hi, I'm Savar
+👋 Hi, I'm SAVAR
 
 🎓 AI & Machine Learning Student
 💻 Passionate about Artificial Intelligence, Machine Learning, and Data Science
